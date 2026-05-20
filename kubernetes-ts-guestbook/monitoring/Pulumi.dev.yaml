@@ -1,0 +1,3 @@
+config:
+  kubernetes:context: docker-desktop
+  kubernetes:kubeconfig: C:\Windows\System32\examples\kubernetes-ts-guestbook\monitoring\kubeconfig.yaml
